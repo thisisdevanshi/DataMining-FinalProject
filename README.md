@@ -8,7 +8,7 @@ The code gives a score around 0.88173 on the public leaderboard. Feel free to co
 
 Team: 
 
-![](https://pasteboard.co/JovyRn0.png)
+![](https://ibb.co/S5kd8KL)
 
 _Chris Reimann [creimann@uchicago.edu](creimann@uchicago.edu)_
 
@@ -18,20 +18,22 @@ Professor: Dr. Anil Chaturvedi
 
 
 **Description**
+
 New users on Airbnb can book a place to stay in 34,000+ cities across 190+ countries. By accurately predicting where a new user will book their first travel experience, Airbnb can share more personalized content with their community, decrease the average time to first booking, and better forecast demand.
 
 The competition has 12 possible destinations for a new user.
 
 **Data**
+
 As per competition rules, we cannot share the dataset. But feel free to have a look at [Competition data] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data). 
 
 AirBnB provides us with 6 datasets. Train users, Test users, web session, country, age buckets and a sample submission csv file.
 
 **Structure of the repository**
 
-_Code Folder: This folder contains the main python notebook which covers our main code. It also contains code for the evaluation metric used for the kaggle competition.
+- Code Folder: This folder contains the main python notebook which covers our main code. It also contains code for the evaluation metric used for the kaggle competition.
 
-_Output: This contains our submission.
+- Output: This contains our submission.
 
 
 
