@@ -37,7 +37,17 @@ This dataset revolves around predicting where (country) a new user will book the
 1. Importing the files and loading the dataset
 2. EDA
 3. Feature Engineering
-
+4. Evalutation Metric by Kaggle
+5. Understanding what makes a new user books a place
+6. Models
+	6.1. Decision Tree
+	6.2. Logistic Regression
+	6.3. Random Forest
+	6.4. KNN
+	6.5. XGBOOST
+	6.6. Ensemble Model
+7. Preparing data for submission
+8. Future Work
 
 
 
