@@ -14,7 +14,7 @@ _Chris Reimann [creimann@uchicago.edu](creimann@uchicago.edu)_
 
 _Devanshi Verma [devanshi@uchicago.edu](devanshi@uchicago.edu)_
 
-Professor: Dr. Anil Chaturvedi
+**Professor**: Dr. Anil Chaturvedi
 
 
 ## Description
@@ -34,20 +34,10 @@ This dataset revolves around predicting where (country) a new user will book the
 - Output: This contains our submission.
 
 ## Structure of the code
-1.1 Importing the files and loading the dataset
-1.2 EDA
-1.3 Feature Engineering
-1.4 Evalutation Metric by Kaggle
-1.5 Understanding what makes a new user books a place
-1.6 Models
-	1.6.1 Decision Tree
-	1.6.2 Logistic Regression
-	1.6.3 Random Forest
-	1.6.4 KNN
-	1.6.5 XGBOOST
-	1.6.6 Ensemble Model
-1.7 Preparing data for submission
-1.8 Future Work
+1. Importing the files and loading the dataset
+2. EDA
+3. Feature Engineering
+
 
 
 
