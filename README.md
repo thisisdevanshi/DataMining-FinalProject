@@ -8,7 +8,7 @@ The code gives a score around 0.88173 on the public leaderboard. Feel free to co
 
 Team: 
 
-![](https://ibb.co/S5kd8KL)
+![](https://i.ibb.co/8Nydpjh/Team.png)
 
 _Chris Reimann [creimann@uchicago.edu](creimann@uchicago.edu)_
 
@@ -25,7 +25,7 @@ The competition has 12 possible destinations for a new user.
 
 **Data**
 
-As per competition rules, we cannot share the dataset. But feel free to have a look at [Competition data] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data). 
+As per competition rules, we cannot share the dataset. But feel free to have a look at [https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data] (https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data). 
 
 AirBnB provides us with 6 datasets. Train users, Test users, web session, country, age buckets and a sample submission csv file.
 
