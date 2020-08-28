@@ -40,12 +40,12 @@ This dataset revolves around predicting where (country) a new user will book the
 4. Evalutation Metric by Kaggle
 5. Understanding what makes a new user books a place
 6. Models
-	6.1. Decision Tree
-	6.2. Logistic Regression
-	6.3. Random Forest
-	6.4. KNN
-	6.5. XGBOOST
-	6.6. Ensemble Model
+	* Decision Tree
+	* Logistic Regression
+	* Random Forest
+	* KNN
+	* XGBOOST
+	* Ensemble Model
 7. Preparing data for submission
 8. Future Work
 
